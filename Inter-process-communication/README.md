@@ -3,4 +3,4 @@ The three process random-street-gen, graph-gen and shortest-path-finder are link
 
 There are two pipes and four processes. Pipe 1: write is stdout of random_street-gen, read is stdin of graph-gen. Pipe 2: write includes stdout of graph-gen and stdout of the driver, read is stdin of shortest-path-finder. 
 
-The driver takes input of two locations, the output them to stdout. 
+The driver takes input of two locations, then output them to stdout. 
