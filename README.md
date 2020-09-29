@@ -1,5 +1,5 @@
 # Street-Monitoring-System
-Demonstrated an optimized traffic system to help local police install security cameras at traffic intersections. 
+Demonstrated an optimized traffic system to help local police effectuvely install security cameras at traffic intersections. 
 ## Inter-process-communication
 Implemented inter-process-communication between three process random-street-gen, graph-gen and shortest-path-finder. 
 ## Min-Vertex-Cover
